@@ -28,7 +28,7 @@ def main():
 	print("Multiplication and substraction in one row below....")
 	print("Substract operation for a =", a," and b = ", b, " is", subtract(a,b), " and multiplication for a=" , a," and b= ", b ," is ", multiply(a,b))
 	print("Divide operation for a =" , a, " and b = ", b, " is", divide(a,b))
-
+print("That was all")
 if __name__ == '__main__':
 	main()
 	
